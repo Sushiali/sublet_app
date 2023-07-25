@@ -48,7 +48,7 @@ Name: Sumeiya Abdulle Ali
 Email: sumeiya.ali@strathmore.edu
 
 Name: Gideon Wafula
-Email: gideon.wafula@strathmore
+Email: gideon.wafula@strathmore.edu
 
 Feel free to reach out with any feedback or concerns!
 
