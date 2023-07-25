@@ -44,7 +44,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or inquiries regarding this project, please contact the project owner:
 
-Name: Sumeiya Abdulle Ali
+Name: Sumeiya Abdulle Al
 Email: sumeiya.ali@strathmore.edu
 
 Name: Gideon Wafula
